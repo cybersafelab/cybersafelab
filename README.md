@@ -1,7 +1,7 @@
 👋 Hello there, @cybersafelab is here!
-👀 We're interested in deep in deep study of cybersecurity 
-🌱 We're currently learning new things that have appeared in the world 
-💞️ We're looking to collaborate on building systems 
+👀 We're interested in deep in deep study of cybersecurity
+🌱 We're currently learning new things that have appeared in the world
+💞️ We're looking to collaborate on building systems
 📫 How to reach us - just message us anywhere
 
 <!---
